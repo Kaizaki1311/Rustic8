@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import fondoMadera from "../../Imagenes/fondoMadera.png";
 
-
 const StyledNosotros = styled.header`
     /*background-color: #000000;*/
     background-image: url(${fondoMadera});
